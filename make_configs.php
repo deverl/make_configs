@@ -10,7 +10,7 @@
 //
 
 
-const DEFAULT_NUM_OUTPUT_CLIENTS = 10
+const DEFAULT_NUM_OUTPUT_CLIENTS = 10;
 
 if ($argc < 2) {
 	echo "You must provide the input file name!" . PHP_EOL;
